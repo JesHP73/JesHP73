@@ -18,5 +18,8 @@
 I'll be posting my mini projects in display of my skills! 
 my goal is to show, that if I query the data enought, the data will confess! 
 
+## Data Science desition
+
+![Alt text](flowchart_datascience_path.png)
 
 **Feel free to contact me for any collaborations, questions, or just a chat! 😊**
