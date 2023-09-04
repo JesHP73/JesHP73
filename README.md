@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @JesHP73
-- 👀 I’m interested in R, SQL, Python, and others !
-- 🌱 I’m currently in a Data Science Bootcamp learning it all!
-- 💞️ I’m looking to collaborate on coding experiences!
+# Hello there! I'm JesHP73 🚀
 
-<!---
-JesHP73/JesHP73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+👋 Hey! I'm an aspiring Data Scientist diving deep into the world of data.
+ 
+- 🔍 **Interested In:** MySQL, Python, GoogleCollab, Panda, Anaconda and more!
+- 🎓 **Currently:** Enrolled in a Data Science Bootcamp @WBS Coding Shool
+- 💼 **Looking for:** Exciting collaborations and coding experiences
+
+## Skills 🛠️
+
+- **Languages:** MySQL, Python, GoogleCollab, Panda, Anaconda
+- **Tools:** Excel, Tableu, Power BI
+
+## Mini Projects 📦
+
+I'll be posting my mini projects in display of my skills! 
+my goal is to show, that if I query the data enought, the data will confess! 
+
+
+**Feel free to contact me for any collaborations, questions, or just a chat! 😊**
