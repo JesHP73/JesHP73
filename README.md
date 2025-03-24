@@ -2,7 +2,7 @@
 
 ## About Me
 
-👋 Hey! I'm an aspiring Data Scientist diving deep into the world of data.
+👋 Hey! I'm a Data Scientist diving deep into the world of data.
  
 - 🔍 **Interested In:** MySQL, Python, GoogleCollab, Panda, Anaconda and more!
 - 🎓 **Currently:** Enrolled in a Data Science Bootcamp @WBS Coding Shool
